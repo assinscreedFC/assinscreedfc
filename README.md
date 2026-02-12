@@ -7,7 +7,7 @@
 ### 🧭 About Me
 
 * 🎓 **Bachelor's Degree** in Computer Science (Software Engineering)
-* 🤖 I specialize in **Python, Advanced Web Scraping (Scrapling), and AI Agents (LangGraph)**
+* 🤖 I specialize in **Python, Advanced Web Scraping (Scrapling), AI Agents (LangGraph), Automations & Bots**
 * ⚙️ Expert in **Automations** and building robust APIs with **FastAPI**
 * 📱 Experienced in modern Frontend and Mobile development with **Next.js, React, and React Native**
 * 🧠 Currently diving deep into **Machine Learning, Deep Learning, and AI Infrastructure**
