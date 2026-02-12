@@ -43,10 +43,15 @@
 ### 📩 Connect with me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="TON_LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="TON_LIEN_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:TON_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+### 📊 Activity & Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=assinscreedFC&theme=tokyonight&hide_border=true" alt="Anis's GitHub Streak" />
 </p>
