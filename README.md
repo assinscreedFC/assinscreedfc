@@ -17,18 +17,17 @@
 ### 🛠️ Tech Stack
 
 #### 🐍 Data & AI (Core)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scrapling](https://img.shields.io/badge/Scrapling-60A665?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-4B0082?style=for-the-badge&logo=zapier&logoColor=white)
+#### 🐍 Data & AI Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scrapling](https://img.shields.io/badge/Scrapling-FFD700?style=flat-square&logo=python&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
 
-#### 🌐 Full-Stack & DevOps
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+#### 🌐 Development & Ops
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
