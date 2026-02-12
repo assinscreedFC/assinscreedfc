@@ -21,6 +21,7 @@
 ![Scrapling](https://img.shields.io/badge/Scrapling-60A665?style=for-the-badge&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4B0082?style=for-the-badge&logo=zapier&logoColor=white)
 
 #### 🌐 Full-Stack & DevOps
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
