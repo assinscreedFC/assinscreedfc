@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assinscreedfc&show_icons=true&theme=tokyonight&hide_border=true" alt="Anis's GitHub stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=assinscreedFC&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
